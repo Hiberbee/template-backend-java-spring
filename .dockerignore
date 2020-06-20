@@ -1,0 +1,7 @@
+.git*
+.run
+.idea
+build
+gradle
+.gradle
+*.md
