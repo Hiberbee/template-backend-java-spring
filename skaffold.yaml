@@ -1,0 +1,13 @@
+apiVersion: skaffold/v1
+kind: Config
+metadata:
+  name: template-java-spring
+build:
+  local:
+    useBuildkit: true
+    push: false
+  tagPolicy:
+    sha256: {}
+  artifacts:
+  - image: jdk
+    jib: {}
