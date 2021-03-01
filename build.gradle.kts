@@ -5,7 +5,7 @@ plugins {
   `java-library`
   idea
   id("com.github.ben-manes.versions") version "0.29.0"
-  id("com.google.cloud.tools.jib") version "2.5.0"
+  id("com.google.cloud.tools.jib") version "2.8.0"
   id("com.google.cloud.tools.minikube") version "1.0.0-alpha.3"
   id("org.jetbrains.gradle.plugin.idea-ext") version "0.8.1"
   id("org.sonarqube") version "3.0"
