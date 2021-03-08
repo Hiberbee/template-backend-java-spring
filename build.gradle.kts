@@ -4,7 +4,7 @@ import com.google.cloud.tools.jib.gradle.JibExtension
 plugins {
   `java-library`
   idea
-  id("com.github.ben-manes.versions") version "0.29.0"
+  id("com.github.ben-manes.versions") version "0.38.0"
   id("com.google.cloud.tools.jib") version "2.5.0"
   id("com.google.cloud.tools.minikube") version "1.0.0-alpha.3"
   id("org.jetbrains.gradle.plugin.idea-ext") version "0.8.1"
