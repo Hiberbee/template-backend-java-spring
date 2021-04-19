@@ -9,7 +9,7 @@ plugins {
   id("com.google.cloud.tools.minikube") version "1.0.0-alpha.3"
   id("org.jetbrains.gradle.plugin.idea-ext") version "0.8.1"
   id("org.sonarqube") version "3.0"
-  id("org.springframework.boot") version "2.3.2.RELEASE"
+  id("org.springframework.boot") version "2.4.5"
 }
 
 group = "dev.hiberbee"
