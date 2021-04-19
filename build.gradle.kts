@@ -70,7 +70,7 @@ repositories {
 
 dependencies {
   implementation(platform("org.springframework.cloud:spring-cloud-dependencies:Hoxton.RELEASE"))
-  implementation(platform("org.springframework.boot:spring-boot-dependencies:2.3.2.RELEASE"))
+  implementation(platform("org.springframework.boot:spring-boot-dependencies:2.4.5"))
   implementation(platform("de.codecentric:spring-boot-admin-dependencies:2.2.4"))
   annotationProcessor(platform("org.springframework.boot:spring-boot-dependencies:2.3.2.RELEASE"))
 
